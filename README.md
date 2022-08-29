@@ -9,6 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://api.iconify.design/vscode-icons/file-type-handlebars.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
@@ -36,7 +37,6 @@
 <img src="https://api.iconify.design/heroicons-solid/terminal.svg" width="40" height="40"/>
 <img src="https://api.iconify.design/logos/axios.svg" width="40" height="40"/>
 </p>
-
 <h1></h1>
 
 <h3 align="center" style="margin-bottom:20px;">Most Used Languages</h3>
