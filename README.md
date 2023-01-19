@@ -8,7 +8,3 @@
   <img src="https://raw.githubusercontent.com/kieuvu/github-stats/master/generated/overview.svg#gh-dark-light-only"/>
 </p>
 
-<p align="center" width="100%">
-  <img src="https://komarev.com/ghpvc/?username=kieuvu" />
-</p>
-
